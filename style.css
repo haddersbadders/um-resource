@@ -3,8 +3,23 @@
 
 }
 
-.line {
+.arrow {
   height: 3em;
-  
+
     margin: auto;
+}
+
+.msg-abc {
+  width:66%;
+}
+
+
+.btn-mygreen {
+  background: rgba(0, 137, 57,1);
+  color: #fff;
+}
+
+.btn-mygreen:hover, .btn-mygreen:focus, .btn-mygreen:active, .btn-mygreen.active, .open>.dropdown-toggle.btn-mygreen {
+    color: #fff;
+      background: rgba(0, 137, 57,.7);
 }
